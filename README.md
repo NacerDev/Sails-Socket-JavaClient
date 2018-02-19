@@ -1,5 +1,9 @@
 # Sails-Socket-JavaClient
 This is a java class  using Socket.IO v1.x Client Library for Java, which is simply ported from the  JavaScript sails.io client SDK.
+
+## https://github.com/socketio/socket.io-client-java
+
+
 # Usage
 ```java
 SailsSocket socket= new SailsSocket("http://localhost:1337");
